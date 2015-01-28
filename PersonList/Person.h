@@ -18,4 +18,6 @@
 - (id)initWithDictionary:(NSDictionary *)dictionary;
 - (NSDictionary *)personDictionary;
 
++ (NSArray *)allTheFakePeople;
+
 @end

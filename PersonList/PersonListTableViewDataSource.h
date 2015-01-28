@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface PersonListTableViewDataSource : NSObject
+@interface PersonListTableViewDataSource : NSObject 
 
 @end
